@@ -1,0 +1,1 @@
+webpack --config webpack.config.lib.js --optimize-minimize
